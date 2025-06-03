@@ -20,7 +20,7 @@ def obter_dados():
    "marca" : marca,
    "modelo": modelo,
    "ano": ano,
-   "cor": cor
+   "cor": cor, 
    }
    return (data_veiculos)
 

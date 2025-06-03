@@ -4,5 +4,11 @@
         "modelo": " civi",
         "ano": " 2025",
         "cor": "cinza"
+    },
+    {
+        "marca": "toyotta",
+        "modelo": "corolla",
+        "ano": "2020",
+        "cor": "prata"
     }
 ]
